@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MpcHcRemoteControl">
+</Property><Property Name="Solution File" Value="C:\Users\user\Desktop\mpchccontrol-code-2\MpcHcRemoteControl.sln">
+</Property><Property Name="User Options File" Value="C:\Users\user\Desktop\mpchccontrol-code-2\MpcHcRemoteControl.suo">
+</Property><Property Name="Date" Value="Sunday, April 5, 2015">
+</Property><Property Name="Time" Value="18:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MpcHcRemoteControl.sln" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MpcHcRemoteControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MpcHcRemoteControl.suo" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MpcHcRemoteControl.suo">
+</Event><Event ErrorLevel="0" Project="MpcHcRemoteControl" Source="MPCHCControl\MpcHcRemoteControl.csproj" Description="Project file successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCControl\MpcHcRemoteControl.csproj">
+</Event><Event ErrorLevel="0" Project="MpcHcRemoteControl" Source="MPCHCControl\MpcHcRemote.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCControl\MpcHcRemote.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcRemoteControl" Source="MPCHCControl\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcRemoteControl" Source="MPCHCControl\MpcHcRemoteControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MpcHcRemoteControl" Source="MPCHCControl\MpcHcRemoteControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\MpcHcTest.csproj" Description="Project file successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\MpcHcTest.csproj">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Form1.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Form1.Designer.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Program.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Program.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Properties\Settings.settings" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Form1.resx" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\Properties\Resources.resx" Description="File successfully backed up as C:\Users\user\Desktop\mpchccontrol-code-2\Backup\MPCHCTest\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\MpcHcTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MpcHcTest" Source="MPCHCTest\MpcHcTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MpcHcRemoteControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MpcHcRemoteControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MpcHcRemoteControl" Source="MPCHCControl\MpcHcRemoteControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MpcHcTest" Source="MPCHCTest\MpcHcTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

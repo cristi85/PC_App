@@ -1,0 +1,31 @@
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\bin\Release\MPCHCTest.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\bin\Release\MPCHCTest.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\bin\Release\MpcHcRemoteControl.dll
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\bin\Release\MpcHcRemoteControl.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\MPCHCTest.Form1.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\MPCHCTest.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\MpcHcTest.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\MPCHCTest.exe
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCTest\obj\Release\MPCHCTest.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.exe
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\bin\Release\MPCHCTest.exe
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\bin\Release\MPCHCTest.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\bin\Release\MpcHcRemoteControl.dll
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\bin\Release\MpcHcRemoteControl.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MpcHcTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.Form1.resources
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.Properties.Resources.resources
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCTest\obj\Release\MpcHcTest.csproj.GenerateResource.Cache
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.exe
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.pdb
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\bin\Release\MPCHCTest.exe
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\bin\Release\MPCHCTest.pdb
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\bin\Release\MpcHcRemoteControl.dll
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\bin\Release\MpcHcRemoteControl.pdb
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.Form1.resources
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MPCHCTest.Properties.Resources.resources
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\bin\Release\WinampFrontEndLib.dll
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MpcHcTest.csprojResolveAssemblyReference.cache
+D:\_WORK\mpchccontrol-code-2\MPCHCTest\obj\Release\MpcHcTest.csproj.GenerateResource.Cache

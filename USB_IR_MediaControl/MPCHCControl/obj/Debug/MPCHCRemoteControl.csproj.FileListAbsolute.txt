@@ -1,0 +1,13 @@
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\bin\Debug\MpcHcRemoteControl.dll
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\bin\Debug\MpcHcRemoteControl.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\MpcHcRemoteControl.dll
+C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\MpcHcRemoteControl.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCControl\bin\Debug\MpcHcRemoteControl.dll
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCControl\bin\Debug\MpcHcRemoteControl.pdb
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCControl\obj\Debug\MpcHcRemoteControl.dll
+C:\Users\user\Desktop\mpchccontrol-code-2\MPCHCControl\obj\Debug\MpcHcRemoteControl.pdb
+D:\_WORK\mpchccontrol-code-2\MPCHCControl\bin\Debug\MpcHcRemoteControl.dll
+D:\_WORK\mpchccontrol-code-2\MPCHCControl\bin\Debug\MpcHcRemoteControl.pdb
+D:\_WORK\mpchccontrol-code-2\MPCHCControl\obj\Debug\MpcHcRemoteControl.dll
+D:\_WORK\mpchccontrol-code-2\MPCHCControl\obj\Debug\MpcHcRemoteControl.pdb
