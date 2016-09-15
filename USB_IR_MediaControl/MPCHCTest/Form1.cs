@@ -10,6 +10,7 @@ using LateNightStupidities.MpcHcRemoteControl;
 using System.Diagnostics;
 using WinampFrontEndLib;
 using System.IO.Ports;
+using System.IO;
 
 namespace MPCHCTest
 {
@@ -333,13 +334,38 @@ namespace MPCHCTest
         {
             try
             {
-                r = new MpcHcRemote(@"C:\Program Files (x86)\SVP\MPC-HC\mpc-hc.exe");
-                r.StartApplication();
+                StreamReader inifile = new System.IO.StreamReader("config.ini");
+                string line;
+                string MPHCPath = "";
+                bool foundMPHCPath = false;
+                while ((line = inifile.ReadLine()) != null)
+                {
+                    if(line.Contains("MediaPlayerHCPath"))
+                    {
+                        line = line.TrimStart(' ');
+                        line = line.Substring(17);
+                        line = line.TrimStart(' ');
+                        line = line.TrimEnd(' ');
+                        MPHCPath = String.Copy(line);
+                        foundMPHCPath = true;
+                        break;
+                    }
+                }
+
+                inifile.Close();
+                if (foundMPHCPath)
+                {
+                    r = new MpcHcRemote(MPHCPath);
+                    r.StartApplication();
+                }
+                else
+                {
+                    textBox1.AppendText("Could not find definition for \"MediaPlayerHCPath\" in config.ini file");
+                }
             }
             catch (Exception ex)
             {
-                textBox1.AppendText("Error trying to start C:\\Program Files (x86)\\SVP\\MPC-HC\\mpc-hc.exe\r\n");
-                textBox1.AppendText(ex.Message.ToString() + "\r\n");
+                textBox1.AppendText("Error: " + ex.Message.ToString() + "\r\n");
             }
         }
 
