@@ -1,6 +1,7 @@
 USB_IR_MediaControl/MPCHCTest/obj/*
 USB_IR_MediaControl/MPCHCControl/obj/*
-
+USB_IR_MediaControl/MPCHCTest/bin/*
+USB_IR_MediaControl/MPCHCControl/bin/*
 
 # Windows image file caches
 Thumbs.db
