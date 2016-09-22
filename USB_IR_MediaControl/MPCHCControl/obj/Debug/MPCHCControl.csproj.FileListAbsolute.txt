@@ -1,5 +1,0 @@
-C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\bin\Debug\MPCHCControl.dll
-C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\bin\Debug\MPCHCControl.pdb
-C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\MPCHCControl.dll
-C:\Users\Sebastian\Documents\Visual Studio 2008\Projects\MPCHCControl\MPCHCControl\obj\Debug\MPCHCControl.pdb
