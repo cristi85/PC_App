@@ -1,5 +1,5 @@
-USB_IR_MediaControl/MPCHCTest/obj
-USB_IR_MediaControl/MPCHCControl/obj
+USB_IR_MediaControl/MPCHCTest/obj/*
+USB_IR_MediaControl/MPCHCControl/obj/*
 
 
 # Windows image file caches
