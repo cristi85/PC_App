@@ -332,12 +332,12 @@ namespace MPCHCTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            string MPHCPath = "";
+            bool foundMPHCPath = false;
             try
             {
                 StreamReader inifile = new System.IO.StreamReader("config.ini");
                 string line;
-                string MPHCPath = "";
-                bool foundMPHCPath = false;
                 while ((line = inifile.ReadLine()) != null)
                 {
                     if(line.Contains("MediaPlayerHCPath"))
@@ -366,6 +366,10 @@ namespace MPCHCTest
             catch (Exception ex)
             {
                 textBox1.AppendText("Error: " + ex.Message.ToString() + "\r\n");
+                if (foundMPHCPath)
+                {
+                    textBox1.AppendText("MediaPlayerHCPath: " + MPHCPath + "\r\n");
+                }
             }
         }
 
